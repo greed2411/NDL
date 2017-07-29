@@ -30,8 +30,9 @@ Data set : [here](https://www.kaggle.com/zed9941/top-500-indian-cities/downloads
         ANDAMAN & NICOBAR ISLANDS    1
 
   * There are two **Aurangabad**(s) in the nation, 
-        * one belonging to **BIHAR**
-        * second one belonging to **MAHARASHTRA**
+  
+       * one belonging to **BIHAR**
+       * second one belonging to **MAHARASHTRA**
     
   * Top 5 States with the maximum number of Cities
       
